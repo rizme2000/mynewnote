@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotesSQLite</string>
+    <string name="add_note">Add Note.</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="content">Content</string>
+    <string name="title">TITLE</string>
+    <string name="Title" />
+</resources>
